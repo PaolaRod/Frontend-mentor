@@ -1,16 +1,16 @@
-# Juego-Memoria
+# Desafío Frontend Mentor
 
-Es un juego en el cual debes prestar mucha atención a las luces de colores para repetir la secuencia. Si aciertas, las secuencias serán más larga y complejas. El juego consiste en 10 niveles, realizado con el curso de Javascript de la Academia [Platzi](https://platzi.com/) 🚀 
+Sitio web responsive que muestra los servicios de una entidad financiera, proyecto que es parte de los deasfíos de [Frontend Mentor](https://www.frontendmentor.io/), con la asesoría de la desarrolladora Jessica Chan. En este sitio web se utiliza el preprocesador SAAS, y su funcionalidad más importante, "los mixins", que sirvieron para definir medias queries, haciendo que el código sea mantenible y organizado.
 
 ## Link al sitio web 📌
 Puedes visualizar el sitio web en el siguiente link:
-https://paolarod.github.io/juego-memoria/.
+https://paolarod.github.io/Frontend-mentor/.
  
-
-## Herramientas utilizadas 🛠️
-* Javascript 
+## Herramientas utilizadas 🛠
+* SAAS️
 * HTML5
 * CSS3
+* Javascript 
 
 ## Previsualización 📖
 Una muestra de como se ve el sitio web. 

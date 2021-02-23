@@ -14,4 +14,4 @@ https://paolarod.github.io/Frontend-mentor/.
 
 ## Previsualización 📖
 Una muestra de como se ve el sitio web. 
-![](https://github.com/PaolaRod/juego-memoria/blob/master/images/memoria.png)
+![](https://github.com/PaolaRod/Frontend-mentor/blob/main/images/frontend-mentor.png)
